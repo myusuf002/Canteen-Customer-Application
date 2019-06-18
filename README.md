@@ -29,7 +29,7 @@ Using React-Native at [*customer-application*](customer-app/).
 ### **Installation**
 1. Install *NodeJs* & NPM(included), see more at [NodeJS]( https://nodejs.org/en/download/).
 2. Check *NodeJs* installation with `node --version`.
-3. Install *React-Native*, see the guide at [React-Native]( https://facebook.github.io/react-native) and follow the instruction. 
+3. Install *React-Native*, see the guide at [React-Native](https://facebook.github.io/react-native/docs/getting-started) and follow the instructions. 
 4. Move to customer-app directory and install all the packages with `npm install`.
 5. If you using a physical device, connect the device to the computer in developer mode with USB debugging.
 6. Check your device connection to Android Debug Bridge by running `adb devices` and make sure if your device is already exists.
