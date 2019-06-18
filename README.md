@@ -13,6 +13,7 @@ Customer application is mobile-apps for canteens's customer and integrated to Ca
 
 ## Previews
 ![Customer Logo](./docs/preview.png)
+
 **Demo** :install [*apk release*](demo/apk-release.apk).
 
 ## Requirements
