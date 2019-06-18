@@ -1,5 +1,5 @@
 # Customer Application
-![Customer Logo](./docs/logo.png) ![Customer Logo](./docs/name.png)
+![Customer Logo](./docs/logo.png) 
 ## Introduction
 Customer application is mobile-apps for canteens's customer and integrated to Canteen Information System (Final Project of System Information Course). This application has a purpose to manage and sumbit customer's order and payment to the system. This application built on NodeJS with React-Native for the Front-End and ExpressJS for the Back-End.
 
@@ -12,7 +12,8 @@ Customer application is mobile-apps for canteens's customer and integrated to Ca
 4. Manage customer's account.
 
 ## Previews
-
+![Customer Logo](./docs/preview.png)
+**Demo** :install [*apk release*](demo/apk-release.apk).
 
 ## Requirements
 * *NodeJs 10.15.0*
